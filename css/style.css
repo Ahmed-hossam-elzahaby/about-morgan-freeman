@@ -1,0 +1,245 @@
+html{
+scroll-behavior: smooth;
+}
+header{
+background-image: url(../img/intro-bg.jpg);
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+}
+.layir{
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.4);
+}
+.contant-header h1 {
+    font-size: 4.5rem;
+    font-weight: 600;
+}
+.navbar-nav a{
+color: white !important ;
+}
+.dropdown-menu a{
+color: black !important ;
+}
+.navbar-brand{
+margin: 0;
+padding: 0;
+font-weight: 600;
+font-size: 28px;
+}
+ #About  .container{
+background-color: rgb(240, 238, 238);
+}
+.about-contant h5{
+    font-size: 2rem;
+}
+
+.we{
+
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.line{
+
+position: relative;
+
+
+
+}
+.icon{
+width: 120px;
+height: 120px;
+transition: 0.5s background-color ,   1s color   ;
+border:solid 10px rgb(23, 23, 228)
+}
+.we .icon:hover {
+color: white;
+background-color: blue;
+}
+.we h3{
+
+
+transition: o.5s font-weight;
+
+}
+.we h3:hover{
+
+font-weight: bolder;
+
+
+
+}
+.icon-1{
+width: 100px;
+height: 100px;
+border:solid 7px rgba(241, 237, 237, 0.972)
+}
+.hero{
+width:100%;
+height: 50%;
+background-image: url(../img/counters-bg.jpg)  ;
+background-position: center center;
+background-size: cover;
+position: relative;
+background-attachment: fixed;
+}
+.layir-2{
+width: 100%;
+height: 100%;
+position:absolute;
+top: 0;
+left: 0;
+background-color: rgba(77, 145, 248, 0.466);;
+}
+.member{
+overflow: hidden;
+}
+.member img {
+transition: 2s transform;
+}
+ .member:hover img{
+transform: scale(1.4,1.4);
+}
+.a{
+color: blue;
+}
+.bero{
+position: relative;
+margin-bottom: 10px;
+}
+.umberela{
+    margin: auto;
+    width: 100px;
+height: 30px;
+background-color: #0078ff;
+border-radius: 4px;
+position: absolute;
+bottom:  -5%;
+left: 35%;
+}
+.vero{
+    font-size: larger;
+color: black;
+text-decoration: none;
+transition: 0.5s color;
+}
+.vero:hover{
+color: blue;
+text-decoration: none;
+}
+.carousel{
+background-image: url(../img/overlay-bg.jpg);
+background-attachment: fixed;
+}
+.plank{
+width: 20%;
+}
+.carousel-inner{
+width: 100%;
+height: 100%;
+background-color: rgba(77, 145, 248, 0.466);;
+}
+.carousel-indicators li{
+width: 10px !important;
+height: 10px !important;
+border: solid 50%;
+}
+.loby{
+background-image: url(../img/overlay-bg.jpg);
+background-attachment: fixed;
+}
+.loby-1{
+    background-color: rgba(77, 145, 248, 0.466);;
+}
+button{
+    background: #0078ff;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 20px;
+}
+.homl{
+width: 30px;
+height: 30px;
+border:solid 1px  rgba(77, 145, 248, 0.466);;
+}
+.end{
+background-color:rgb(54, 103, 175);; ;
+}
+.end p{
+margin: 0%;
+padding: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
